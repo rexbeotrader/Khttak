@@ -1,2 +1,0 @@
-# Khttak
-Khttak
